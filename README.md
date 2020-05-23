@@ -1,4 +1,4 @@
-# 微信SDK For Golang文档
+# 微信SDK For Golang
 
 WeChat SDK 是一个Golang版本微信SDK，简单、易用。
 
@@ -17,3 +17,7 @@ go get github.com/silenceper/wechat/v2
 ## 使用
 
 根据功能不同，进入对应的模块文档进行查看
+
+## 关注公众号
+
+![学点程序](https://silenceper.oss-cn-beijing.aliyuncs.com/qrcode/search_study_program.png)
