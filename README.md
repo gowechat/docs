@@ -25,7 +25,7 @@ go get github.com/silenceper/wechat/v2
 
 ### 例子
 
-仓库地址：https://github.com/gowechat/example
+仓库地址：https://github.com/gowechat/example
 
 ## 关注公众号
 
