@@ -23,6 +23,10 @@ go get github.com/silenceper/wechat/v2
 
 根据功能不同，进入对应的模块文档进行查看
 
+### 例子
+
+仓库地址：https://github.com/gowechat/example
+
 ## 关注公众号
 
 ![学点程序](https://silenceper.oss-cn-beijing.aliyuncs.com/qrcode/search_study_program.png)
