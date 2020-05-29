@@ -7,4 +7,5 @@
     * [基础接口](officialaccount/basic.md)
     * [消息](officialaccount/message.md)
     * [多客服消息转发](officialaccount/message-transfer.md)
+    * [群发消息](officialaccount/broadcast.md)
 * [参与贡献](/contributing.md)
