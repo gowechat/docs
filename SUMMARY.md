@@ -16,7 +16,8 @@
 * [小程序](miniprogram/README.md)  
     * [微信登录](miniprogram/auth.md)
     * [消息解密](miniprogram/decrypt.md)
-    * [小程序吗](miniprogram/qrcode.md)
+    * [小程序码](miniprogram/qrcode.md)
+    * [云开发](miniprogram/tcb.md)
 * [开放平台](openplatform/README.md)  
 
 * [参与贡献](/contributing.md)
