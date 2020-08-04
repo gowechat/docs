@@ -61,9 +61,9 @@ server.Send()
 //第三方公众号appid
 appid := ""
 officialAccount := openPlatform.GetOfficialAccount(appid)
-oauth := officialAccount.GetOauth()
+oauth := officialAccount.PlatformOauth()
 //重定向到微信oauth授权登录
-oauth.PlatformRedirect(rw, req, callback, "snsapi_userinfo", "", appid)
+oauth.Redirect(rw, req, callback, "snsapi_userinfo", "", appid)
 ```
 
 ## 代第三方公众号 - 通过网页授权的code 换取access_token
@@ -73,7 +73,7 @@ componentAccessToken, err := openPlatform.GetComponentAccessToken()
 if err != nil {
     fmt.Println(err)
 }
-accessToken, err := officialAccount.GetOauth().PlatformGetUserAccessToken(code, appid, componentAccessToken)
+accessToken, err := officialAccount.PlatformOauth().GetUserAccessToken(code, appid, componentAccessToken)
 if err != nil {
     fmt.Println(err)
 }
@@ -124,7 +124,7 @@ fmt.Println(msgID)
 ## 代第三方公众号 - 获取jsconfig信息
 ```go
 CheckAuthrToken(appid, refreshToken)
-jsConfig, err := openPlatform.GetOfficialAccount(appid).GetJs().PlatformGetConfig(uri, appid)
+jsConfig, err := openPlatform.GetOfficialAccount(appid).PlatformJs().GetConfig(uri, appid)
 if err != nil {
     fmt.Println(err)
 }
