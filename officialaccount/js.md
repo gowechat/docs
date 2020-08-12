@@ -3,7 +3,7 @@
 ## 获取js-sdk操作实例
 ```go
 oa := wc.GetOfficialAccount(cfg)
-j:=oa.GetJS()
+j:=oa.GetJs()
 ```
 
 ## 获取js配置
