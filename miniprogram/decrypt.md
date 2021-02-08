@@ -3,7 +3,7 @@
 ## 获取操作实例
 ```go
 mini := wc.GetMiniProgram(cfg)
-a:=mini.GetAuth()
+a:=mini.GetEncryptor()
 ```
 
 ## 解密数据
