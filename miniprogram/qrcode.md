@@ -1,3 +1,9 @@
+---
+title: 小程序码
+type: docs
+weight: 3
+URL: "/wechat/miniprogram/qrcode.html"
+---
 # 小程序码
 
 ## 获取操作实例

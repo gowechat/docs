@@ -1,3 +1,9 @@
+---
+title: 云开发
+type: docs
+weight: 4
+URL: "/wechat/miniprogram/tcb.html"
+---
 # 小程序-云开发 SDK
 
 Tencent Cloud Base [文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/reference-http-api/)

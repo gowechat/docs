@@ -1,3 +1,9 @@
+---
+title: 菜单管理
+type: docs
+weight: 9
+URL: "/wechat/officialaccount/menu.html"
+---
 # 菜单管理
 
 ## 获取菜单操作实例

@@ -1,3 +1,9 @@
+---
+title: 素材管理
+type: docs
+weight: 7
+URL: "/wechat/officialaccount/material.html"
+---
 # 素材管理
 
 ## 获取素材操作实例
@@ -20,7 +26,7 @@ AddMaterial(mediaType MediaType, filename string)
 ```
 
 ## 新增永久视频素材
-```
+```go
 AddVideo(filename, title, introduction string)
 ```
 

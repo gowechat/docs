@@ -1,3 +1,9 @@
+---
+title: 消息管理
+type: docs
+weight: 4
+URL: "/wechat/officialaccount/message.html"
+---
 # 消息
 >当普通微信用户向公众账号发消息时，微信服务器将POST消息的XML数据包到开发者填写的URL上。
 
@@ -61,7 +67,7 @@ const (
 	EventView = "VIEW"
 	//EventScancodePush 扫码推事件的事件推送
 	EventScancodePush = "scancode_push"
-	//EventScancodeWaitmsg 扫码推事件且弹出“消息接收中”提示框的事件推送
+	//EventScancodeWaitmsg 扫码推事件且弹出"消息接收中"提示框的事件推送
 	EventScancodeWaitmsg = "scancode_waitmsg"
 	//EventPicSysphoto 弹出系统拍照发图的事件推送
 	EventPicSysphoto = "pic_sysphoto"
@@ -142,16 +148,16 @@ return &message.Reply{MsgType: message.MsgTypeMusic, MsgData: music}
 
 `NewMusic`参数说明：
 
-|参数|是否必须|描述|
-|----|----|----|
-|Title|否|音乐标题|
-|Description|否|音乐描述|
-|MusicURL|否|音乐链接|
-|HQMusicUrl|否|高质量音乐链接，WIFI环境优先使用该链接播放音乐|
-|ThumbMediaId|否|缩略图的媒体id，通过素材管理中的接口上传多媒体文件，得到的id|
+| 参数         | 是否必须 | 描述                                                         |
+| ------------ | -------- | ------------------------------------------------------------ |
+| Title        | 否       | 音乐标题                                                     |
+| Description  | 否       | 音乐描述                                                     |
+| MusicURL     | 否       | 音乐链接                                                     |
+| HQMusicUrl   | 否       | 高质量音乐链接，WIFI环境优先使用该链接播放音乐               |
+| ThumbMediaId | 否       | 缩略图的媒体id，通过素材管理中的接口上传多媒体文件，得到的id |
 
 其中不必须的参数可以填写空字符串`""`
 
 ### 多客服消息转发
 
-请参考 [多客服消息转发](./message-transfer.md)
+请参考 [多客服消息转发](./message-transfer.html)

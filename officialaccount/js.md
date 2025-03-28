@@ -1,3 +1,9 @@
+---
+title: JS-SDK
+type: docs
+weight: 8
+URL: "/wechat/officialaccount/js.html"
+---
 # JS-SDK
 
 ## 获取js-sdk操作实例

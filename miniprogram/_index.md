@@ -1,3 +1,12 @@
+---
+title: 小程序
+weight: 2
+type: docs
+URL: "/wechat/miniprogram/"
+sidebar:
+  open: true
+---
+
 # 小程序
 
 

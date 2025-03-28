@@ -1,3 +1,8 @@
+---
+title: 公众号授权流程
+type: docs
+URL: "/wechat/openplatform/account_verify.html"
+---
 # 公众号授权流程
 小程序或者公众号授权给第三方平台的流程
 [官方文档](https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/Authorization_Process_Technical_Description.html)

@@ -1,3 +1,9 @@
+---
+title: 用户管理
+type: docs
+weight: 10
+URL: "/wechat/officialaccount/user.html"
+---
 # 用户管理
 
 ## 获取用户管理操作实例

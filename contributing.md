@@ -1,3 +1,9 @@
+---
+title: 参与贡献
+weight: 6
+type: docs
+url: wechat/contributing.html
+---
 # 参与贡献
 主要包含源码和文档的共享
 

@@ -1,3 +1,11 @@
+---
+title: 微信开放平台
+weight: 3
+type: docs
+URL: "/wechat/openplatform"
+sidebar:
+  open: true
+---
 # 微信开放平台
 
 状态：beta

@@ -1,3 +1,9 @@
+---
+title: 基础接口
+weight: 3
+type: docs
+URL: "/wechat/officialaccount/basic.html"
+---
 # 基础接口
 微信公众号操作基础接口
 

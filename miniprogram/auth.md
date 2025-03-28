@@ -1,3 +1,9 @@
+---
+title: 微信登录
+type: docs
+weight: 1
+URL: "/wechat/miniprogram/auth.html"
+---
 # 微信登录
 
 ## 获取操作实例

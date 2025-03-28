@@ -1,3 +1,9 @@
+---
+title: 多客服消息转发
+type: docs
+weight: 5
+URL: "/wechat/officialaccount/message_transfer.html"
+---
 # 多客服消息转发
 
 ```go

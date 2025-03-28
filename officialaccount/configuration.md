@@ -1,3 +1,9 @@
+---
+title: 配置
+type: docs
+weight: 2
+URL: "/wechat/officialaccount/configuration.html"
+---
 # 配置
 
 通常通过如下配置就可以获取到一个`officialAccount`的操作实例了。
@@ -36,12 +42,12 @@ type Config struct {
 ```
 **配置说明：**
 
-|  参数   | 是否必须  | 说明 |
-|  ----  | ----  | ----  | 
-| AppID  | 是 |微信公众号APP ID |
-| AppSecret  | 是 |微信公众号App Secret |
-| EncodingAESKey | 否 | 如果指定则表示开启AES加密，消息和结果都会进行解密和加密 |
-| Cache | 否| 单独指定微信公众号用到的AccessToken保存的位置，会覆盖全局通过`wechat.SetCache`的设置|
+| 参数           | 是否必须 | 说明                                                                                 |
+| -------------- | -------- | ------------------------------------------------------------------------------------ |
+| AppID          | 是       | 微信公众号APP ID                                                                     |
+| AppSecret      | 是       | 微信公众号App Secret                                                                 |
+| EncodingAESKey | 否       | 如果指定则表示开启AES加密，消息和结果都会进行解密和加密                              |
+| Cache          | 否       | 单独指定微信公众号用到的AccessToken保存的位置，会覆盖全局通过`wechat.SetCache`的设置 |
 > 参数配置请前往[微信公众号后台](https://mp.weixin.qq.com)获取
 
 ## 缓存

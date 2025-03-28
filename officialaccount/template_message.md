@@ -1,3 +1,9 @@
+---
+title: 模板消息
+type: docs
+weight: 12
+URL: "/wechat/officialaccount/template_message.html"
+---
 # 模板消息
 
 ## 获取模板消息实例
