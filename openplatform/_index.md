@@ -1,12 +1,12 @@
 ---
-title: 微信开放平台
+title: 微信开放平台 - 微信SDK开发文档
+linkTitle: 微信开放平台
 weight: 3
 type: docs
 URL: "/wechat/openplatform"
 sidebar:
   open: true
 ---
-# 微信开放平台
 
 状态：beta
 

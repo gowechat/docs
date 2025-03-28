@@ -1,10 +1,10 @@
 ---
-title: 用户管理
+title: 用户管理 - 微信SDK开发文档
+linkTitle: 用户管理
 type: docs
 weight: 10
 URL: "/wechat/officialaccount/user.html"
 ---
-# 用户管理
 
 ## 获取用户管理操作实例
 ```go

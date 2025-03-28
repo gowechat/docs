@@ -1,12 +1,12 @@
 ---
-title: 公众号
+title: 公众号 - 微信SDK开发文档
+linkTitle: 公众号
 weight: 1
 type: docs
 URL: "/wechat/officialaccount"
 sidebar:
   open: true
 ---
-# 公众号
 
 开发前必读：[微信公众官方文档](https://developers.weixin.qq.com/doc/offiaccount/Getting_Started/Overview.html)
 

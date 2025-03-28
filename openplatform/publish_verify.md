@@ -1,9 +1,10 @@
 ---
-title: 全网发布校验
+title: 全网发布校验 - 微信SDK开发文档
+linkTitle: 全网发布校验
 type: docs
 URL: "/wechat/openplatform/publish_verify.html"
 ---
-# 全网发布校验
+
 微信第三方平台进行全网发布的时候，会有一个全网发布接入检测的过程。  
 [官方文档](https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/Post_Application_on_the_Entire_Network/releases_instructions.html)
 

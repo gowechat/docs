@@ -1,10 +1,10 @@
 ---
-title: JS-SDK
+title: JS-SDK - 微信SDK开发文档
+linkTitle: JS-SDK
 type: docs
 weight: 8
 URL: "/wechat/officialaccount/js.html"
 ---
-# JS-SDK
 
 ## 获取js-sdk操作实例
 ```go

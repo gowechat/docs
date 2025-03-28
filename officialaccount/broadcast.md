@@ -1,10 +1,11 @@
 ---
-title: 消息群发
+title: 消息群发 - 微信SDK开发文档
+linkTitle: 消息群发
 type: docs
 weight: 6
 URL: "/wechat/officialaccount/broadcast.html"
 ---
-# 消息群发
+
 
 ## 获取群发操作实例
 

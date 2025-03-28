@@ -1,10 +1,11 @@
 ---
-title: 快速入门
+title: 快速入门 - 微信SDK开发文档
+linkTitle: 快速入门
 type: docs
 weight: 1
 URL: "/wechat/officialaccount/start.html"
 ---
-## 快速入门
+
 以下例子就演示了一个启动一个server，接收到用户发往公众号的消息然后做处理。
 > - 测试公众号可以使用[微信公众平台接口测试平台](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login)
 > - 本地环境开发的话，可以使用 [ngrok](https://ngrok.com/)工具映射出来的公网地址，方便调试。

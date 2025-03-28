@@ -1,10 +1,11 @@
 ---
-title: 订阅消息
+title: 订阅消息 - 微信SDK开发文档
+linkTitle: 订阅消息
 type: docs
 weight: 5
 URL: "/wechat/miniprogram/subscribe.html"
 ---
-# 订阅消息
+
 [微信文档](https://developers.weixin.qq.com/miniprogram/dev/api-backend/open-api/subscribe-message/subscribeMessage.send.html)
 
 ## 获取操作实例

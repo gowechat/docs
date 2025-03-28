@@ -1,10 +1,10 @@
 ---
-title: 多客服消息转发
+title: 多客服消息转发 - 微信SDK开发文档
+linkTitle: 多客服消息转发
 type: docs
 weight: 5
 URL: "/wechat/officialaccount/message_transfer.html"
 ---
-# 多客服消息转发
 
 ```go
 transferCustomer := message.NewTransferCustomer("")

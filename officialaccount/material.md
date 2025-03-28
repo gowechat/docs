@@ -1,10 +1,10 @@
 ---
-title: 素材管理
+title: 素材管理 - 微信SDK开发文档
+linkTitle: 素材管理
 type: docs
 weight: 7
 URL: "/wechat/officialaccount/material.html"
 ---
-# 素材管理
 
 ## 获取素材操作实例
 

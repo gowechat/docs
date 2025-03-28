@@ -1,10 +1,11 @@
 ---
-title: 消息管理
+title: 消息管理 - 微信SDK开发文档
+linkTitle: 消息管理
 type: docs
 weight: 4
 URL: "/wechat/officialaccount/message.html"
 ---
-# 消息
+
 >当普通微信用户向公众账号发消息时，微信服务器将POST消息的XML数据包到开发者填写的URL上。
 
 在快速入门一节中就已经演示了如果收到消息以及对消息进行回复

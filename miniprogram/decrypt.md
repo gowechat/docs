@@ -1,10 +1,10 @@
 ---
-title: 消息解密
+title: 消息解密 - 微信SDK开发文档
+linkTitle: 消息解密
 type: docs
 weight: 2
 URL: "/wechat/miniprogram/decrypt.html"
 ---
-# 消息解密
 
 ## 获取操作实例
 ```go

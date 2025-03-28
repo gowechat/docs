@@ -1,10 +1,10 @@
 ---
-title: 微信登录
+title: 微信登录 - 微信SDK开发文档
+linkTitle: 微信登录
 type: docs
 weight: 1
 URL: "/wechat/miniprogram/auth.html"
 ---
-# 微信登录
 
 ## 获取操作实例
 ```

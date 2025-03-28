@@ -1,10 +1,10 @@
 ---
-title: 小程序码
+title: 小程序码 - 微信SDK开发文档
+linkTitle: 小程序码
 type: docs
 weight: 3
 URL: "/wechat/miniprogram/qrcode.html"
 ---
-# 小程序码
 
 ## 获取操作实例
 ```go

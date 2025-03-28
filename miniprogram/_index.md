@@ -1,5 +1,6 @@
 ---
-title: 小程序
+title: 小程序 - 微信SDK开发文档
+linkTitle: 小程序
 weight: 2
 type: docs
 URL: "/wechat/miniprogram/"
@@ -7,7 +8,6 @@ sidebar:
   open: true
 ---
 
-# 小程序
 
 
 ## 获取小程序操作对象

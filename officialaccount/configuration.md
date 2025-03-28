@@ -1,10 +1,10 @@
 ---
-title: 配置
+title: 配置 - 微信SDK开发文档
+linkTitle: 配置
 type: docs
 weight: 2
 URL: "/wechat/officialaccount/configuration.html"
 ---
-# 配置
 
 通常通过如下配置就可以获取到一个`officialAccount`的操作实例了。
 ```go
